@@ -14,7 +14,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 20%;
+    height: 100%;
     width: 100%;
 }
 
@@ -40,21 +40,4 @@ body {
 
 h3, h4{
     color: white;
-}
-
-.container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 80%;
-    width: 100%;
-}
-
-#map {
-    width: calc(100% - 60px);
-    height: calc(100% - 60px);
-    border-color: black;
-    border: 1px;
-    border-style: solid;
-    border-radius: 5px;
 }
